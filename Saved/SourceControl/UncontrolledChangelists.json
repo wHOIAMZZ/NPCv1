@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/User/Documents/Unreal Projects/NPC/Content/NPC/BT_AI.uasset",
+				"C:/Users/User/Documents/Unreal Projects/NPC/Content/NPC/BP_NPC.uasset",
+				"C:/Users/User/Documents/Unreal Projects/NPC/Content/NPC/BP_NPCCONTROL.uasset",
+				"C:/Users/User/Documents/Unreal Projects/NPC/Content/NPC/BTTask_GenerateLocation.uasset",
+				"C:/Users/User/Documents/Unreal Projects/NPC/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/JU/XRJNDI4K6V0QORDKKE39LC.uasset",
+				"C:/Users/User/Documents/Unreal Projects/NPC/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/8G/WKMO4AED21YGO7LJWA0HBK.uasset",
+				"C:/Users/User/Documents/Unreal Projects/NPC/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/VK/3EIMNA92NDRZ012BGY8912.uasset"
+			]
+		}
+	]
+}
